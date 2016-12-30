@@ -1,0 +1,9 @@
+.table-headings {
+  font-size: 16px;
+  font-weight: 300;
+  color: grey;
+}
+
+.table-heading-container {
+  max-height: 30px;
+}

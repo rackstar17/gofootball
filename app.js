@@ -1,4 +1,4 @@
-angular.module('goFootball', ['ui.router'])
+angular.module('goFootball', ['ui.router', 'ngMaterial'])
   
   .config(function ($stateProvider) {
 
